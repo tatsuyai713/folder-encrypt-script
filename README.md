@@ -1,0 +1,1 @@
+# folder-encrypt-script
